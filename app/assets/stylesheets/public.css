@@ -1,0 +1,191 @@
+body{
+	background-position: center; 
+}
+/*
+.homeindex{
+	background: url('/assets/homebg4.jpg') no-repeat 0 0 ;
+    height : 2000px;
+	background-position: 100% 80%;
+}*/
+/* for post ad   */
+.next{
+	height :42px;
+}
+body,td,th {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	margin-top: 0%;
+}
+
+th{
+	font-size: 14px;
+	color: green;
+	margin: 1% 0 0 0 ;
+	float: left;
+}
+
+.headertable{
+	float: right;
+	margin-right: 35%;
+}
+.login{
+	font-size: 15px;
+}
+a.post{
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+a:hover {
+	background: none;
+}
+.register{
+	font-size: 15px;
+}
+.filter{
+	margin: 15px 0 0 100px;
+//	border: thin solid #12D49B;
+//	border-radius: 10px;
+	padding: 5px;
+}
+.filterdt1 {
+//	border: thin solid #12D49B;
+//	border-radius: 10px;
+	padding: 5px
+}
+.headerdiv{
+	height:80px;
+	padding-top:2.5%;
+}
+.adcontent{
+	margin-top: 15px;
+//	border: thin solid #12D49B;
+//	border-radius: 10px;
+}
+.ad_table:hover {
+	border: 1px solid #FF9900;
+	border-radius: 10px;
+//	background: #C1E4E3;
+	
+}
+.header{
+	height: 85px;
+	width: 100%;
+	margin:0;
+//	border: thin solid #12D49B;
+//	border-radius: 10px;
+//	background-color: #3EC4ED;
+}
+.adjust {
+	min-height: 20px;
+}
+
+.logo{
+	display: block;
+	margin: 3px 0px 0px 9%;
+	//float: left;
+//	border: thin solid #12D49B;
+//	border-radius: 10px;
+}
+.adimg {
+	padding: 0% 0 0 0;
+	background: #95C60B;
+	//height: 50%;
+}
+.adimgsize {
+	height: 125px;
+	width: 100%;
+	border: thin solid #12D49B;
+	border-radius: 10px;
+//	margin-top: -10%;
+}
+
+.ad_table:hover .adimgsize {
+	
+	border: none;
+}
+.adtitle {
+	color: #339900;
+	margin: 1% 0;
+	font-size: 20px;
+}
+.adDetails {
+	padding: 8px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	width: 95%;
+	max-width: 100%;
+	margin: 0 0 1% 0;
+}
+.adHover {
+	margin-left: 3%;
+}
+.adDetails > tbody >tr >td {
+	font-size: 12px;
+}
+.adHover > tbody >tr >td:hover {
+	background-color: #99CC66;
+}
+.extraf {
+	margin: 0% 10% 3% 3%;
+//	float: right;
+}
+.extrag {
+	background: #95C60B;
+	border-radius: 5px;
+}
+.frnd_score {
+	background-image: url("/assets/frnd_score.png");
+	background: #95C60B;
+//	float: right;
+}
+.search-nav-1 {
+	margin-top: 5px;
+}
+.search-nav-2 {
+	border-radius: 20px;
+	margin-top: 11%;
+}
+.search-icon {
+	float: right;
+}
+
+/* css for the sign_in registration */
+.sign-head {
+margin-top: 20%;
+
+}
+.panel-primary {
+border-color: #51A601;
+}
+.sign-heading {
+
+color: #fff;
+background-color: #51A601;
+border-color: #51A601;
+padding: 10px 15px;
+border-bottom: 1px solid transparent;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+
+}
+.sign-title {
+font-size:25px;
+font-weight:bold;
+
+}
+.sign-input {
+width: 94%;
+}
+.sign-lable ,
+.sign-btn ,
+.sign-input {
+margin: 2% 0 0% 2%;
+}
+.devise-shared-links {
+margin: 2% 0 2% 2%;
+}
+.form-group {
+margin:0 ;
+}
